@@ -1,2 +1,2 @@
 # Riverfrogs
-Louisville Reverfrogs project
+Louisville Riverfrogs project
